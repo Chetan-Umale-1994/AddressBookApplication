@@ -4,7 +4,7 @@ Address Book Application using console/ command line
 To run the project, clone the repository and import it into IntelliJ 
 or 
 Run the jar file from the command line:
-java -jar AddressBookApplication.java
+java -jar AddressBookApplication.jar
 
 The application follows a MVC architecture.
 Person.java and Address.java are the model classes.
